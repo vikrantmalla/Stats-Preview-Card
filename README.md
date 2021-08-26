@@ -2,7 +2,7 @@
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-*## Table of contents
+## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -25,8 +25,8 @@
 
 ### Links
 
-- Solution URL: [ Solution ](https://www.frontendmentor.io/profile/vikrantmalla)
-
+- Solution URL: [ Vikrant Malla ](https://www.frontendmentor.io/profile/vikrantmalla)
+- Live Server: [Preview](https://vikrantmalla.github.io/Stats-Preview-Card/)
 
 ### Built with
 
